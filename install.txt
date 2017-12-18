@@ -1,0 +1,1 @@
+pacman -S gvfs gvfs-smb gvfs-nfs gvfs-mtp gvfs-gphoto2 gvfs-afc mtpfs ifuse exfat-utils ntfs-3g dosfstools leafpad libreoffice-still libreoffice-still-de hunspell hunspell-de firefox firefox-i18n-de firefox-adblock-plus thunderbird thunderbird-i18-de icedtea-web flashplugin jdk9-openjdk geany codeblocks gimp pinta gparted htop pcmanfm vlc
